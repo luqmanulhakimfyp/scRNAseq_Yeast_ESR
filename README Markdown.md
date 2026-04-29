@@ -1,5 +1,3 @@
-# scRNAseq_Yeast_ESR
-To ensure full computational reproducibility, all custom R scripts generated for the non-parametric statistical pipeline, cross-condition intersection analysis, fold-change calculations, and ggplot2 visualizations have been deposited in this public GitHub repository.
 # Non-Parametric Characterization of Single-Cell Gene Expression Heterogeneity
 This repository contains the computational pipeline used to process, analyze, and visualize single-cell RNA sequencing (scRNA-seq) data from *Saccharomyces cerevisiae* under optimal and hyperosmotic salt stress conditions.
 ## Project Overview
